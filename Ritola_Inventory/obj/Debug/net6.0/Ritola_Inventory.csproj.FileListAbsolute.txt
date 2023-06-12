@@ -1,0 +1,15 @@
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\bin\Debug\net6.0\Ritola_Inventory.exe
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\bin\Debug\net6.0\Ritola_Inventory.deps.json
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\bin\Debug\net6.0\Ritola_Inventory.runtimeconfig.json
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\bin\Debug\net6.0\Ritola_Inventory.dll
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\bin\Debug\net6.0\Ritola_Inventory.pdb
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\obj\Debug\net6.0\Ritola_Inventory.csproj.AssemblyReference.cache
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\obj\Debug\net6.0\Ritola_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\obj\Debug\net6.0\Ritola_Inventory.AssemblyInfoInputs.cache
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\obj\Debug\net6.0\Ritola_Inventory.AssemblyInfo.cs
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\obj\Debug\net6.0\Ritola_Inventory.csproj.CoreCompileInputs.cache
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\obj\Debug\net6.0\Ritola_Inventory.dll
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\obj\Debug\net6.0\refint\Ritola_Inventory.dll
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\obj\Debug\net6.0\Ritola_Inventory.pdb
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\obj\Debug\net6.0\Ritola_Inventory.genruntimeconfig.cache
+D:\School\Programming II\Repo\Ritola_Inventory_Solution\Ritola_Inventory\obj\Debug\net6.0\ref\Ritola_Inventory.dll
