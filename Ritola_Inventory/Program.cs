@@ -1,6 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// Juliea Ritola
+// IT112 
+// NOTES: Notes the instructor should read
+// BEHAVIORS NOT IMPLEMENTED AND WHY: Are there any parts of the assignment 
+// you did not complete?
+
 namespace Ritola_Inventory
 {
 	internal class Program
@@ -20,7 +26,6 @@ namespace Ritola_Inventory
 				Console.WriteLine("4. Add Crackers to the shipment");
 				Console.WriteLine("5. List Shipment Items");
 				Console.WriteLine("6. Compute Shipping Charges");
-				Console.WriteLine("7. Exit the application");
 				Console.WriteLine();
 
 				Console.Write("Enter your choice (1-6): ");
@@ -85,9 +90,6 @@ namespace Ritola_Inventory
 						Console.WriteLine($"Total shipping charges: ${totalCost}\n");
 						Console.WriteLine("Press any key to exit the application.");
 						Console.ReadLine();
-						Running = false;
-						break;
-					case 7:
 						Running = false;
 						break;
 					default:
